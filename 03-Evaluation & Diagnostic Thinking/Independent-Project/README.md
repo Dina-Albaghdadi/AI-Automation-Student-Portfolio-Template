@@ -338,4 +338,4 @@ If I continued developing this project, I would:
 
 **Dina Albaghdadi**
 
-[LinkedIn] · [GitHub](https://github.com/Dina-Albaghdadi)
+[[LinkedIn](https://www.linkedin.com/in/dina-albaghdadi-79bb9a25a/?isSelfProfile=true)] · [GitHub](https://github.com/Dina-Albaghdadi)
